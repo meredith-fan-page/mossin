@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: #40ff8b;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.8;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+a {
+  display: block;
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
